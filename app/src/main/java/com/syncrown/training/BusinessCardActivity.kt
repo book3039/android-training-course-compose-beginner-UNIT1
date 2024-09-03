@@ -45,7 +45,7 @@ import androidx.core.view.WindowInsetsControllerCompat
 import com.syncrown.training.ui.theme.AndroidGreen
 import com.syncrown.training.ui.theme.TrainingTheme
 
-class MainActivity : ComponentActivity() {
+class BusinessCardActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
